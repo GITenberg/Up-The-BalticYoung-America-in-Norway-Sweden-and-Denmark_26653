@@ -1,0 +1,34 @@
+_repo: Up-The-BalticYoung-America-in-Norway-Sweden-and-Denmark_26653
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2008-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Young men -- Juvenile fiction'
+- !lcsh 'Scandinavia -- Juvenile fiction'
+title: Up The Baltic; Or, Young America in Norway, Sweden, and Denmark
+url: http://www.gutenberg.org/ebooks/26653
